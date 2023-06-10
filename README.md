@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">My name is Enes and I'm a student, from Turkey.</p>
+<p align="center">My name is Enes and I'm an 11th grade student, from Turkey.</p>
 
 ###
 
