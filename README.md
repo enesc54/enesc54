@@ -32,29 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 
 </div>
-
-###
-
-<h2 align="center">Social Media</h2>
-
-###
-
-<div align="center">
-   <a href="https://www.facebook.com/profile.php?id=100092331701989&mibextid=ZbWKwL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png" height="50" width="50" alt="facebook"/>
-   </a>
-  
-
-
-  <a href="https://instagram.com/enes.can.54?igshid=ZDdkNTZiNTM=">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIQBogA1leiSdotyacvZMfKwsa8gJ2rnMeQ&usqp=CAU" height="50" width="50" alt="instagram"/>
-  </a>
-  <a href="https://twitter.com/enes_can54?t=Dd1BvYG2wDfhn6xUR1IWbg&s=09">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_Twitter.png" height="50" width="50" alt="twitter"/>
-  </a>
-
-</div>
-
-
-
-
