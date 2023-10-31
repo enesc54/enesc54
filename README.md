@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning ReactJs<br>🎯 Goals: Backend Developer</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning ReactJs<br>🎯 Goals: Full Stack Developer</p>
 
 ###
 
