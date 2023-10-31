@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning HReactJs<br>🎯 Goals: Backend Developer</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning ReactJs<br>🎯 Goals: Backend Developer</p>
 
 ###
 
@@ -30,6 +30,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python"  />
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="C#"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="C#"  />
 
 </div>
